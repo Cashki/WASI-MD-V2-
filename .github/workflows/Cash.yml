@@ -18,7 +18,7 @@ steps:
 -name: Checkout repository 
 uses: Actions/setup@v3
 
--name: Setup Node.js
+-name: Setup node.js
 uses: actions/setup-node@v3
 with:
 node-version: ${{matrix.nodeversion}}
