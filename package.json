@@ -1,5 +1,5 @@
 {
-   "name": "wasi-md-v2",
+   "name": "cash-md-v2",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by itxxwasi ....",
    "main": "index.js",
@@ -62,6 +62,7 @@
       "simple-git": "^3.15.1",
       "translatte": "^3.0.1",
       "util": "^0.12.4",
+      "version": "14.x",
       "wa-sticker-formatter": "^4.3.2",
       "youtubei.js": "^7.0.0",
       "ytdl-core": "^4.11.5",
